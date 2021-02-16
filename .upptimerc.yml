@@ -20,9 +20,10 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-commitMessages:
-  commitAuthorName: Jpsern
-  commitAuthorEmail: tommy999_jps@yahoo.co.jp
+# change commit user
+# commitMessages:
+#   commitAuthorName: Jpsern
+#   commitAuthorEmail: xxxxxxxxxxxxx
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
