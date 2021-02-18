@@ -6,10 +6,11 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Jpsern.com
     url: https://jpsern.com
+    icon: https://jpsern.com/images/favicon-g.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: status.takagi.blog
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -19,6 +20,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: dark
 
 # change commit user
 # commitMessages:
