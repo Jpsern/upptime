@@ -24,9 +24,9 @@ status-website:
   # theme: dark
 
 # change commit user
-# commitMessages:
-#   commitAuthorName: Jpsern
-#   commitAuthorEmail: xxxxxxxxxxxxx
+commitMessages:
+  commitAuthorName: Jpsern
+  commitAuthorEmail: ${{ secrets.OWNER_EMAIL }}
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
