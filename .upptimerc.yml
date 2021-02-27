@@ -21,7 +21,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   # Available themes are light, dark, or ocean.
-  # theme: dark
+  theme: ocean
 
 # change commit user
 # commitMessages:
