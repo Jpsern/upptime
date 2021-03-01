@@ -14,7 +14,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Jpsern Server Status
+  name: Upptime
   navbar:
     - title: Status
       href: /upptime
