@@ -14,8 +14,9 @@
     "timeDay": 246,
     "timeWeek": 198,
     "timeMonth": 237,
-    "timeYear": 325,
+    "timeYear": 324,
     "dailyMinutesDown": {
+      "2023-02-14": 0,
       "2022-12-15": 22,
       "2022-12-10": 21,
       "2022-09-04": 33,
