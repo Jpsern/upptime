@@ -4,19 +4,19 @@
     "url": "https://jpsern.com",
     "icon": "https://jpsern.com/images/favicon-g.png",
     "slug": "jpsern-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 184,
-    "timeDay": 439,
-    "timeWeek": 234,
-    "timeMonth": 176,
+    "timeDay": 333,
+    "timeWeek": 222,
+    "timeMonth": 174,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-10-02": 0,
+      "2025-10-02": 12,
       "2025-07-31": 37
     }
   }
